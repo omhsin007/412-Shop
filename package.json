@@ -1,0 +1,27 @@
+{
+  "name": "412-shop",
+  "version": "0.0.0",
+  "description": "fundb project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cpe24fundb/412-Shop.git"
+  },
+  "author": "",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/cpe24fundb/412-Shop/issues"
+  },
+  "homepage": "https://github.com/cpe24fundb/412-Shop#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "jest": "^21.1.0",
+    "mysql": "^2.14.1",
+    "pug": "^2.0.0-rc.4",
+    "standard": "^10.0.3"
+  }
+}
