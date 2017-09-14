@@ -1,0 +1,6 @@
+{
+    "require": {
+        "pug-php/pug": "^2.7",
+        "slim/slim": "^3.0"
+    }
+}

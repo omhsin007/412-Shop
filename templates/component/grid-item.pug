@@ -1,0 +1,6 @@
+include item
+
+mixin grid-item(items)
+  .row
+    each item in items
+      +item(item)
